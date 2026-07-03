@@ -1,18 +1,18 @@
 body {
-  background: url(./download\ \(1\).jpg);
+  background: url(./Screenshot\ 2026-07-03\ 221851.png);
   background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
 }
 
 img {
-  height: 150px;
+  height: 350px;
   transform: rotate(45deg);
   position: absolute;
   bottom: 0;
   left: 0;
   animation-name: float;
-  animation-duration: 2s;
+  animation-duration: 5s;
 }
 
 @keyframes float {
